@@ -1,56 +1,55 @@
-<!-- Header -->
-<h1 align="center">Atharva Date</h1>
-<p align="center">
- <strong>Email:</strong> b22ai045@iitj.ac.in
-  <br>
-  <a href="https://github.com/ADIITJ/">GitHub</a>
-</p>
+██╗  ██╗
+██║  ██║
+███████║
+██╔══██║
+██║  ██║
+╚═╝  ╚═╝
+███████╗
+██╔════╝
+███████╗
+██╔════╝
+███████╗
+╚══════╝
+██╗   ██╗
+╚██╗ ██╔╝
+ ╚████╔╝ 
+  ╚██╔╝  
+   ██║   
+   ╚═╝   
+   
+   ██╗
+   ██║
+   ██║
+   ╚═╝
+   ██╗
+   ╚═╝
 
-<!-- Introduction -->
-## About Me
-I am a B.Tech Computer Science student at the Indian Institute of Technology Jodhpur, specializing in AI and Data Science.
 
-<!-- Education -->
-## Education
-- **Indian Institute of Technology Jodhpur (IIT J)**
-  - Pursuing B.Tech in Computer Science Engineering
-  - Specialization in AI and Data Science
-  - Duration: 2022-2026
-  - JEE Advanced Rank: 2638
-  - ICSE Score (10th Grade): 98%
+Hello there! I'm Atharva Date, a passionate Computer Science student at IIT Jodhpur with a focus on AI and Data Science.
 
-<!-- Project Experience -->
-## Project Experience
+🌱 I'm currently exploring the realms of machine learning and neural networks, constantly learning and growing.
+💻 I enjoy solving challenging problems and building innovative projects that make a difference.
 
-### Face Detection System with Webcam
-- [GitHub](https://github.com/ADIITJ/face_detection_webcam)
-- Live face detection system implemented from webcam feed.
+### 🚀 Project Highlights
 
-### Computer Vision for Apparel Identification
-- [GitHub](https://github.com/ADIITJ/basic-computer-vision)
-- Utilized computer vision techniques to identify various types of apparel.
+#### Face Detection System with Webcam
+Live face detection system implemented from webcam feed.
+[![Face Detection](https://your-image-url.com)](https://github.com/ADIITJ/face_detection_webcam)
 
-### Retrieval Chatbot with Custom Input
-- [GitHub](https://github.com/ADIITJ/retrieval-chatbot)
-- Developed a retrieval-based chatbot with customizable input for interactive conversations.
+#### Computer Vision for Apparel Identification
+Utilized computer vision techniques to identify various types of apparel.
+[![Computer Vision](https://your-image-url.com)](https://github.com/ADIITJ/basic-computer-vision)
 
-### Railway Logistics System for PRC
-- Engineered a railway logistics system for PRC facilitating freight car movement and parcel routing using BFS and DFS algorithms. Managed parcel sorting, ensuring fault-tolerant deliveries, reinforcing my skills in graph theory.
+#### Retrieval Chatbot with Custom Input
+Developed a retrieval-based chatbot with customizable input for interactive conversations.
+[![Chatbot](https://your-image-url.com)](https://github.com/ADIITJ/retrieval-chatbot)
 
-### Automated Book Index Generation
-- Automated book index generation, excluding common words, using Red-Black Tree dictionary. Processed chapters, tracked word occurrences, and pruned frequent terms. Strengthened Red-Black Tree proficiency and index creation.
+### 🛠️ Skills
 
-### Metro Route Path Finder for Delhi Metro
-- Created a Metro Route Path Finder using linked lists, queues, and AVL trees for Delhi Metro commuters. The software calculates optimal routes considering fares and multiple lines, honing my skills in AVL trees, queues, and linked lists.
+- **Languages:** C, C++, Python, Java
+- **Machine Learning:** ML models, Neural Networks
+- **Data Structures & Algorithms:** Proficient in DSA
+- **Web Development:** HTML, CSS, JavaScript
 
-### Phone Book Application
-- Designed a phone book application with hash-tables and chaining for contact storage. Implemented features for adding, searching, and deleting contacts efficiently using hash-tables and linked lists.
+Let's connect and collaborate! Feel free to reach out via [email](mailto:b22ai045@iitj.ac.in) or connect with me on [GitHub](https://github.com/ADIITJ/).
 
-### Student Information Management System
-- Developed software to efficiently store student information from a CSV file using nested linked lists. Created specialized lists for Departments, Courses, Hostels, and Clubs, optimizing memory usage and data integrity.
-
-<!-- Skills -->
-## Skills
-- **Programming Languages:** Proficient in C, C++, Python, and Java.
-- **Machine Learning and Neural Networks:** Experience building ML models and neural networks in Python.
-- **Data Structures and Algorithms:** Demonstrated skills in DSA through various projects.
