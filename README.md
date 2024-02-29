@@ -9,7 +9,7 @@ Hello there! I'm Atharva Date, a passionate Computer Science student at IIT Jodh
 
 #### Face Detection System with Webcam
 Live face detection system implemented from webcam feed.
-[![Face Detection](https://your-image-url.com)](https://github.com/ADIITJ/face_detection_webcam)
+[![Face Detection](face.png)](https://github.com/ADIITJ/face_detection_webcam)
 
 #### Computer Vision for Apparel Identification
 Utilized computer vision techniques to identify various types of apparel.
