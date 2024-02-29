@@ -9,15 +9,24 @@ Hello there! I'm Atharva Date, a passionate Computer Science student at IIT Jodh
 
 #### Face Detection System with Webcam
 Live face detection system implemented from webcam feed.
-<a href="https://github.com/ADIITJ/face_detection_webcam"><img src="face.png" alt="Face Detection" width="250"/></a>
+<br>
+<a href="https://github.com/ADIITJ/face_detection_webcam">
+  <img src="face.png" alt="Face Detection" width="200"/>
+</a>
 
 #### Computer Vision for Apparel Identification
 Utilized computer vision techniques to identify various types of apparel.
-<a href="https://github.com/ADIITJ/basic-computer-vision"><img src="https://your-image-url.com" alt="Computer Vision" width="200"/></a>
+<br>
+<a href="https://github.com/ADIITJ/basic-computer-vision">
+  <img src="https://your-image-url.com" alt="Computer Vision" width="200"/>
+</a>
 
 #### Retrieval Chatbot with Custom Input
 Developed a retrieval-based chatbot with customizable input for interactive conversations.
-<a href="https://github.com/ADIITJ/retrieval-chatbot"><img src="https://your-image-url.com" alt="Chatbot" width="200"/></a>
+<br>
+<a href="https://github.com/ADIITJ/retrieval-chatbot">
+  <img src="https://your-image-url.com" alt="Chatbot" width="200"/>
+</a>
 
 ### 🛠️ Skills
 
