@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Atharva Date</h1>
 <p align="center">
-  <strong>Phone:</strong> 9987377889 | <strong>Email:</strong> b22ai045@iitj.ac.in
+ <strong>Email:</strong> b22ai045@iitj.ac.in
   <br>
   <a href="https://github.com/ADIITJ/">GitHub</a>
 </p>
