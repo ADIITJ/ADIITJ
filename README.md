@@ -18,7 +18,7 @@ Live face detection system implemented from webcam feed.
 Utilized computer vision techniques to identify various types of apparel.
 <br>
 <a href="https://github.com/ADIITJ/basic-computer-vision">
-  <img src="https://your-image-url.com" alt="Computer Vision" width="200"/>
+  <img src="fashion.png" alt="Computer Vision" width="200"/>
 </a>
 
 #### Retrieval Chatbot with Custom Input
