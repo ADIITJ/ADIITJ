@@ -1,10 +1,4 @@
-██╗  ██╗ ███████╗  ██╗   ██╗\n
-██║  ██║ ██╔════╝  ╚██╗ ██╔╝\n
-███████║ ███████╗   ╚████╔╝ \n
-██╔══██║ ██╔════╝    ╚██╔╝  \n
-██║  ██║ ███████║     ██║   \n
-╚═╝  ╚═╝ ╚══════╝     ╚═╝   \n
-
+# PROFILE
 
 Hello there! I'm Atharva Date, a passionate Computer Science student at IIT Jodhpur with a focus on AI and Data Science.
 
