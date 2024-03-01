@@ -1,8 +1,8 @@
-# PROFILE
+# Welcome ! ! !
 
-Hello there! I'm Atharva Date, a passionate Computer Science student at IIT Jodhpur with a focus on AI and Data Science.
+I'm Atharva Date, a passionate sophomore at IIT Jodhpur studying Computer Science Engineering with a focus on AI and Data Science.
 
-🌱 I'm currently exploring the realms of machine learning and neural networks, constantly learning and growing.
+🤖I'm currently exploring the realms of machine learning and neural networks, constantly learning and growing.
 💻 I enjoy solving challenging problems and building innovative projects that make a difference.
 
 ### 🚀 Project Highlights
