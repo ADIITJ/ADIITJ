@@ -8,10 +8,10 @@ I'm Atharva Date, a passionate sophomore at IIT Jodhpur studying Computer Scienc
 ### 🚀 Project Highlights
 
 #### RAG (Retrieval-Augmented Generation) Prompt Generator
-From scratch RAG Prompt Generator improves question answering by generating contextual prompts.
+From scratch RAG Prompt Generator improves question answering by generating prompts from context provided by the user.
 <br>
 <a href="https://github.com/ADIITJ/RAG-implementation">
-  <img src="face.png" alt="RAG implementation" width="200"/>
+  <img src="RAG.png" alt="RAG implementation" width="200"/>
 </a>
 
 #### Face Detection System with Webcam
