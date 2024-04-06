@@ -13,7 +13,7 @@ I'm Atharva Date, a passionate sophomore at IIT Jodhpur studying Computer Scienc
 | RAG (Retrieval-Augmented Generation) Prompt Generator | From scratch RAG Prompt Generator improves question answering by generating prompts from context provided by the user. Thus boosting accuracy. | [![RAG implementation](RAG.png)](https://github.com/ADIITJ/RAG-implementation)                             |
 | Face Detection System with Webcam            | Live face detection system implemented from webcam feed.                                         | [![Face Detection](face.png)](https://github.com/ADIITJ/face_detection_webcam)                              |
 | Computer Vision for Apparel Identification  | Utilized computer vision techniques to identify various types of apparel.                          | [![Computer Vision](fashion.png)](https://github.com/ADIITJ/basic-computer-vision)                           |
-| Retrieval Chatbot with Custom Input          | Developed a retrieval-based chatbot with customizable input for interactive conversations.        | [![Chatbot](https://your-image-url.com)](https://github.com/ADIITJ/retrieval-chatbot)                        |
+| Retrieval Chatbot with Custom Input          | Developed a retrieval-based chatbot with customizable input for interactive conversations.        | [![Chatbot](chatbot.jpg)](https://github.com/ADIITJ/retrieval-chatbot)                        |
 
 ### 🛠️ Skills
 
