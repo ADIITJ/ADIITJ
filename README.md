@@ -8,7 +8,7 @@ I'm Atharva Date, a passionate sophomore at IIT Jodhpur studying Computer Scienc
 ### 🚀 Project Highlights
 
 #### RAG (Retrieval-Augmented Generation) Prompt Generator
-From scratch RAG Prompt Generator improves question answering by generating prompts from context provided by the user.
+From scratch RAG Prompt Generator improves question answering by generating prompts from context provided by the user. Thus boosting accuracy.
 <br>
 <a href="https://github.com/ADIITJ/RAG-implementation">
   <img src="RAG.png" alt="RAG implementation" width="200"/>
@@ -40,7 +40,6 @@ Developed a retrieval-based chatbot with customizable input for interactive conv
 - **Languages:** C, C++, Python, Java
 - **Machine Learning:** ML models, Neural Networks
 - **Data Structures & Algorithms:** Proficient in DSA
-- **Web Development:** HTML, CSS, JavaScript
 
 Let's connect and collaborate! Feel free to reach out via [email](mailto:b22ai045@iitj.ac.in) or connect with me on [GitHub](https://github.com/ADIITJ/).
 
