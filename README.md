@@ -7,40 +7,14 @@ I'm Atharva Date, a passionate sophomore at IIT Jodhpur studying Computer Scienc
 
 ### 🚀 Project Highlights
 
-#### Wiki-search to generate prompt with RAG
-The project extracts pertinent information from the top three search results on Wikipedia, which is then fed into the RAG Prompt Generator(repo below)
-<br>
-<a href="https://github.com/ADIITJ/Wiki-search">
-  <img src="wiki.png" alt="wiki-search" width="200"/>
-</a>
+| Project Name                                    | Description                                                                                                                           | GitHub Repository                                | Image                                            |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| Wiki-search to generate prompt with RAG         | Extracts information from top Wikipedia search results and feeds it into the RAG Prompt Generator.                                   | [GitHub Repo](https://github.com/ADIITJ/Wiki-search) | ![Wiki-search](wiki.png)                        |
+| RAG (Retrieval-Augmented Generation) Prompt Generator | Improves question answering by generating prompts from user-provided context, enhancing accuracy.                                | [GitHub Repo](https://github.com/ADIITJ/RAG-implementation) | ![RAG](RAG.png)                                 |
+| Face Detection System with Webcam               | Implements a live face detection system using webcam feed.                                                                           | [GitHub Repo](https://github.com/ADIITJ/face_detection_webcam) | ![Face Detection](face.png)                     |
+| Computer Vision for Apparel Identification      | Utilizes computer vision to identify various types of apparel.                                                                       | [GitHub Repo](https://github.com/ADIITJ/basic-computer-vision) | ![Computer Vision](fashion.png)                 |
+| Retrieval Chatbot with Custom Input             | Develops a retrieval-based chatbot with customizable input for interactive conversations.                                          | [GitHub Repo](https://github.com/ADIITJ/retrieval-chatbot) | ![Chatbot](https://your-image-url.com)           |
 
-#### RAG (Retrieval-Augmented Generation) Prompt Generator
-From scratch RAG Prompt Generator improves question answering by generating prompts from context provided by the user. Thus boosting accuracy.
-<br>
-<a href="https://github.com/ADIITJ/RAG-implementation">
-  <img src="RAG.png" alt="RAG implementation" width="200"/>
-</a>
-
-#### Face Detection System with Webcam
-Live face detection system implemented from webcam feed.
-<br>
-<a href="https://github.com/ADIITJ/face_detection_webcam">
-  <img src="face.png" alt="Face Detection" width="200"/>
-</a>
-
-#### Computer Vision for Apparel Identification
-Utilized computer vision techniques to identify various types of apparel.
-<br>
-<a href="https://github.com/ADIITJ/basic-computer-vision">
-  <img src="fashion.png" alt="Computer Vision" width="200"/>
-</a>
-
-#### Retrieval Chatbot with Custom Input
-Developed a retrieval-based chatbot with customizable input for interactive conversations.
-<br>
-<a href="https://github.com/ADIITJ/retrieval-chatbot">
-  <img src="https://your-image-url.com" alt="Chatbot" width="200"/>
-</a>
 
 ### 🛠️ Skills
 
