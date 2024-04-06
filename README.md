@@ -7,6 +7,13 @@ I'm Atharva Date, a passionate sophomore at IIT Jodhpur studying Computer Scienc
 
 ### 🚀 Project Highlights
 
+#### Wiki-search to generate prompt with RAG
+The project extracts pertinent information from the top three search results on Wikipedia, which is then fed into the RAG Prompt Generator(repo below)
+<br>
+<a href="https://github.com/ADIITJ/Wiki-search">
+  <img src="wiki.png" alt="wiki-search" width="200"/>
+</a>
+
 #### RAG (Retrieval-Augmented Generation) Prompt Generator
 From scratch RAG Prompt Generator improves question answering by generating prompts from context provided by the user. Thus boosting accuracy.
 <br>
