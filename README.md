@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-date-a956b6256)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharva.a.date@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ADIITJ)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://atharva-date.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADIITJ)
 
 </div>
@@ -60,8 +60,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ADIITJ&theme=radical&hide_border=true&show_icons=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ADIITJ&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADIITJ&layout=compact&theme=radical&hide_border=true)
 
 </div>
