@@ -18,8 +18,11 @@
 
 ---
 <div align="center">
-  <video src="git_to_name_loop.mp4" autoplay loop muted playsinline width="500"></video>
+  <video autoplay loop muted playsinline width="500">
+    <source src="https://raw.githubusercontent.com/ADIITJ/ADIITJ/main/git_to_name_loop.mp4" type="video/mp4">
+  </video>
 </div>
+
 
 ## 🧠 **About Me**
 
