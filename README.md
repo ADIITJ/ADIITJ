@@ -17,6 +17,10 @@
 </div>
 
 ---
+<div align="center">
+  <h3>🔁 GitHub → Atharva Name Morph Animation</h3>
+  <video src="git_to_name_loop.mp4" autoplay loop muted playsinline width="500"></video>
+</div>
 
 ## 🧠 **About Me**
 
