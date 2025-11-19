@@ -2,7 +2,10 @@
 
 <div align="center">
 
-# ⚡️ **Atharva Date**
+<div align="center">
+  <img src="./git_to_name_loop.gif" width="500" style="border-radius: 12px;" />
+</div>
+
 ### *AI & Data Science Engineer | Researcher | Innovator*
 
 🎓 Final Year @ IIT Jodhpur | 📊 AI • ML • Computer Vision • NLP  
@@ -17,12 +20,6 @@
 </div>
 
 ---
-<div align="center">
-  <video autoplay loop muted playsinline width="500">
-    <source src="https://raw.githubusercontent.com/ADIITJ/ADIITJ/main/git_to_name_loop.mp4" type="video/mp4">
-  </video>
-</div>
-
 
 ## 🧠 **About Me**
 
