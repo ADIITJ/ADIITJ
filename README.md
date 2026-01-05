@@ -46,17 +46,18 @@
 
 ## 🚀 **Highlighted Projects**
 
-> *Click the image to explore each repository.*
-
-| Project | Description | Link |
-|----------|--------------|------|
-| 🧥 **Style Transfer in Fashion Images** | Virtual try-on using **U-2-Net**, **VGG-19**, and saliency-based blending. | [![Fashion Transfer](style.png)](https://github.com/ADIITJ/Fashion-Transfer-main) |
-| 🧠 **Alex AI Assistant** | Modular local assistant for voice & text automation — plays music, manages files, fetches news. | [![Alex AI](ai.png)](https://github.com/ADIITJ/Alex-AI-Assisitant) |
-| 📚 **Book Recommendation System** | Personalized recommender with **Elasticsearch** and **KNN-based retrieval**. | [![Book Recommendation](book.png)](https://github.com/anwesh2410/Book-Recommendation-Site) |
-| ✍️ **Auto Handwritten Sheet Evaluation** | OCR + ML pipeline automating exam sheet grading with 89% validation accuracy. | [![Handwritten Eval](hand.png)](https://github.com/samj786/NCVPRIPG-AutoEval) |
-| 🌐 **Wikipedia RAG Prompt Generator** | Improves QA factuality by generating enhanced RAG prompts. | [![Wiki RAG](wiki.png)](https://github.com/ADIITJ/Wiki-search) |
-| 🧩 **Retrieval Chatbot** | Retrieval-based chatbot for dynamic knowledge-driven conversations. | [![Chatbot](chatbot.jpg)](https://github.com/ADIITJ/retrieval-chatbot) |
-
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🧠 **ARGUS-X** | Agentic research gap discovery with claim–assumption–evidence graphs and falsification loops. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-000000) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-8A2BE2) ![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-4B8BBE) | [GitHub](https://github.com/ADIITJ) |
+| 🔗 **ReasonerRAG** | Graph-based RAG with document knowledge graphs and hierarchical summarization (95% traceability). | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0052CC) ![NER](https://img.shields.io/badge/NER-FF6F00) ![Graph](https://img.shields.io/badge/Graph%20Reasoning-2E8B57) | [GitHub](https://github.com/ADIITJ) |
+| 📊 **KG-Table-QA** | Knowledge-augmented TableQA using Wikidata-backed graphs (28.6% → 92.9%). | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TableQA](https://img.shields.io/badge/TableQA-6A5ACD) ![Wikidata](https://img.shields.io/badge/Wikidata-006699) ![Knowledge Graph](https://img.shields.io/badge/Knowledge%20Graph-4B8BBE) | [GitHub](https://github.com/ADIITJ) |
+| 🎥 **VideoMind** | Episodic video reasoning using CLIP, BLIP, and YOLOv8 for object–temporal memory modeling. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![CLIP](https://img.shields.io/badge/CLIP-000000) ![BLIP](https://img.shields.io/badge/BLIP-FF1493) ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF0000) | [GitHub](https://github.com/ADIITJ) |
+| 🌐 **Wikipedia RAG Prompt Generator** | Improves QA factuality by generating optimized retrieval-augmented prompts. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0052CC) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2) | [GitHub](https://github.com/ADIITJ/Wiki-search) |
+| ✍️ **Auto Handwritten Sheet Evaluation** | OCR + ML pipeline for automated handwritten exam grading (89% accuracy). | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-228B22) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4682B4) | [GitHub](https://github.com/samj786/NCVPRIPG-AutoEval) |
+| 🧥 **Style Transfer in Fashion Images** | Virtual try-on using U-2-Net segmentation and VGG-19 feature transfer. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![U-2-Net](https://img.shields.io/badge/U--2--Net-800080) ![VGG19](https://img.shields.io/badge/VGG--19-FF8C00) ![CV](https://img.shields.io/badge/Computer%20Vision-4682B4) | [GitHub](https://github.com/ADIITJ/Fashion-Transfer-main) |
+| 📚 **Book Recommendation System** | Personalized recommender using Elasticsearch and KNN-based semantic retrieval. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) ![KNN](https://img.shields.io/badge/KNN-2E8B57) | [GitHub](https://github.com/anwesh2410/Book-Recommendation-Site) |
+| 🧩 **Retrieval Chatbot** | Retrieval-based chatbot for knowledge-driven conversations. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF6F00) ![Retrieval](https://img.shields.io/badge/Retrieval-0052CC) | [GitHub](https://github.com/ADIITJ/retrieval-chatbot) |
+| 🧠 **Alex AI Assistant** | Modular local assistant for voice & text automation and task execution. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Speech](https://img.shields.io/badge/Speech%20Recognition-6A5ACD) ![Automation](https://img.shields.io/badge/Automation-2E8B57) | [GitHub](https://github.com/ADIITJ/Alex-AI-Assisitant) |
 ---
 
 ## 📊 **GitHub Analytics**
