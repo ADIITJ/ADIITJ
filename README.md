@@ -60,16 +60,6 @@
 | 🧠 **Alex AI Assistant** | Modular local assistant for voice & text automation and task execution. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Speech](https://img.shields.io/badge/Speech%20Recognition-6A5ACD) ![Automation](https://img.shields.io/badge/Automation-2E8B57) | [GitHub](https://github.com/ADIITJ/Alex-AI-Assisitant) |
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADIITJ&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🧩 **Core Skills**
 
 - **Languages:** Python, C++, Java, Swift  
